@@ -1,6 +1,6 @@
 {
   "name": "swan-bb",
-  "version": "1.2.0",
+  "version": "1.1.1",
   "description": "多端小程序",
   "main": "index.js",
   "files": [
@@ -22,6 +22,5 @@
   ],
   "author": "tony",
   "license": "MIT",
-  "devDependencies": {},
   "gitHead": "0b561e9d6c9994b2cb1e26709bec27538709f724"
 }
