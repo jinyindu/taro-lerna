@@ -1,5 +1,5 @@
 {
-  "name": "swan-auth",
+  "name": "@auth/swan-aa",
   "version": "1.2.0",
   "description": "多端小程序",
   "main": "index.js",
@@ -18,15 +18,10 @@
     }
   },
   "keywords": [
-    "swan-auth"
+    "swan-aa"
   ],
   "author": "tony",
   "license": "MIT",
-  "devDependencies": {
-    "@babel/core": "^7.2.2",
-    "babel-core": "^6.26.3",
-    "babel-eslint": "^10.0.1",
-    "babel-jest": "^24.1.0"
-  },
+  "devDependencies": {},
   "gitHead": "0b561e9d6c9994b2cb1e26709bec27538709f724"
 }
