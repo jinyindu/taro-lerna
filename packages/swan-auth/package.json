@@ -1,6 +1,6 @@
 {
   "name": "swan-auth",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "多端小程序",
   "main": "index.js",
   "files": [
