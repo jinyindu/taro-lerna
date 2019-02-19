@@ -1,6 +1,6 @@
 {
   "name": "@auth/swan-bb",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "多端小程序",
   "main": "index.js",
   "files": [
