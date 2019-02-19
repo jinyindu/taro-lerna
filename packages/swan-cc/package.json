@@ -1,0 +1,27 @@
+{
+  "name": "swan-cc",
+  "version": "1.2.0",
+  "description": "多端小程序",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinyindu/taro-lerna.git"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "commit-msg": "commitlint -e $GIT_PARAMS"
+    }
+  },
+  "keywords": [
+    "swan-cc"
+  ],
+  "author": "tony",
+  "license": "MIT",
+  "devDependencies": {},
+  "gitHead": "0b561e9d6c9994b2cb1e26709bec27538709f724"
+}
