@@ -1,17 +1,15 @@
 {
-  "name": "weapp-auth-demo",
+  "name": "swan-auth",
   "version": "1.0.0",
-  "description": "xxx",
+  "description": "多端小程序",
   "main": "index.js",
   "files": [
-    "dist",
-    "src",
     "index.js",
     "package.json"
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/jinyindu/taro-lerna.git"
   },
   "husky": {
     "hooks": {
@@ -20,8 +18,7 @@
     }
   },
   "keywords": [
-    "weimob",
-    "weapp-auth-demo"
+    "swan-auth"
   ],
   "author": "tony",
   "license": "MIT",
@@ -30,5 +27,6 @@
     "babel-core": "^6.26.3",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^24.1.0"
-  }
+  },
+  "gitHead": "d8860a807aad60d0180fecf314d014a6cb300eb4"
 }

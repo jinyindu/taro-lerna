@@ -2,5 +2,15 @@
   "packages": [
     "packages/*"
   ],
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "changelog": {
+    "repo": "ayqy/hoho-lerna",
+    "labels": {
+      "enhancement": ":rocket: Enhancement",
+      "bug": ":bug: Bug Fix",
+      "doc": "Refine Doc",
+      "feat": "New Feature"
+    },
+    "cacheDir": ".changelog"
+  }
 }
