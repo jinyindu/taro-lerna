@@ -10,7 +10,11 @@ const login1 = () =>{
 const login2 = () =>{
   console.log('login2')
 }
+const login3 = () =>{
+  console.log('login2')
+}
 
 login()
 login1()
 login2()
+login3()
