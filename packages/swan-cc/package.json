@@ -1,6 +1,6 @@
 {
   "name": "@auth/swan-cc",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "多端小程序",
   "main": "index.js",
   "files": [
