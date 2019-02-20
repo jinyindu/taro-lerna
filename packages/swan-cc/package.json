@@ -1,5 +1,5 @@
 {
-  "name": "@auth/swan-cc",
+  "name": "@auth_demo/swan-cc",
   "version": "1.0.14",
   "description": "多端小程序",
   "main": "index.js",
@@ -22,5 +22,5 @@
   ],
   "author": "tony",
   "license": "MIT",
-  "gitHead": "075d2a03765d2654e03bfc14d42b65d262a4ab3c"
+  "gitHead": "709aabd7bb92de66cddb00243a26e94feaa16207"
 }
