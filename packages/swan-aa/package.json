@@ -1,6 +1,6 @@
 {
   "name": "@auth_demo/swan-aa",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "多端小程序",
   "main": "index.js",
   "files": [
