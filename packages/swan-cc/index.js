@@ -7,6 +7,9 @@ const login = () =>{
 const login1 = () =>{
   console.log('login1')
 }
-
+const login2 = () =>{
+  console.log('login1')
+}
 login()
 login1()
+login2()
